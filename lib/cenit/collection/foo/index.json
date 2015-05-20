@@ -1,0 +1,7 @@
+{
+    "name": "Foo Collection",
+    "description": "Foo Collection package for install integration in CenitHub",
+    "category": "Collection",
+    "data": {"name": "Foo Collection"},
+    "pull_parameters": []
+}
